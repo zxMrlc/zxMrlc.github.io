@@ -1,0 +1,51 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>zxMrlc&#39;s blog</title>
+        <link>https://zxmrlc.github.io/</link>
+        <description>关于 LoveIt 主题</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 04 May 2021 19:09:26 &#43;0800</lastBuildDate>
+            <atom:link href="https://zxmrlc.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>1473. 粉刷房子 III</title>
+    <link>https://zxmrlc.github.io/1473/</link>
+    <pubDate>Tue, 04 May 2021 19:09:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zxmrlc.github.io/1473/</guid>
+    <description><![CDATA[题目 题目链接 在一个小城市里，有m个房子排成一排，你需要给每个房子涂上n种颜色之一（颜色编号为 1 到 n）。 有的房子去年夏天已经涂过颜色了，所以这]]></description>
+</item><item>
+    <title>740. 删除并获得点数</title>
+    <link>https://zxmrlc.github.io/740/</link>
+    <pubDate>Tue, 04 May 2021 19:09:26 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zxmrlc.github.io/740/</guid>
+    <description><![CDATA[题目 题目链接 给你一个整数数组 nums ，你可以对它进行一些操作。 每次操作中，选择任意一个 nums[i] ，删除它并获得 nums[i] 的点数。 之后，你必须删除每个等于 nums[i] - 1 或 nums[i]]]></description>
+</item><item>
+    <title>简介</title>
+    <link>https://zxmrlc.github.io/about/</link>
+    <pubDate>Tue, 04 May 2021 18:51:52 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zxmrlc.github.io/about/</guid>
+    <description><![CDATA[这里完全就是一个随笔记录. 博客的目的也是不断记录自己探索的程度/路线吧. 如果一开始没想写这个博客,那么很多知识可能就丢在风中了.]]></description>
+</item><item>
+    <title>Slice实现原理</title>
+    <link>https://zxmrlc.github.io/slice/</link>
+    <pubDate>Tue, 04 May 2021 15:53:17 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zxmrlc.github.io/slice/</guid>
+    <description><![CDATA[导读 解决以下问题: slice到底是什么,如何感知 和数组的区别 slice底层实现 常见的坑点 slice到底是什么 slice是建立在数组之上的一种]]></description>
+</item><item>
+    <title>golang 复习点</title>
+    <link>https://zxmrlc.github.io/review/</link>
+    <pubDate>Tue, 04 May 2021 15:13:25 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zxmrlc.github.io/review/</guid>
+    <description><![CDATA[基础 slice实现原理 channel实现原理,无缓冲和有缓冲 反射实现原理 select实现原理 sync.map实现原理 defer/recove]]></description>
+</item><item>
+    <title>python复习点</title>
+    <link>https://zxmrlc.github.io/review/</link>
+    <pubDate>Mon, 03 May 2021 12:43:20 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://zxmrlc.github.io/review/</guid>
+    <description><![CDATA[python 主要还是为了整理复习路线 基础 语法 cpython 2和3的差别 编码和字符串 xrange和range print作为函数出现 问题 GIL(多线程和多进程的使用,]]></description>
+</item></channel>
+</rss>
